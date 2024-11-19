@@ -28,6 +28,7 @@
 
 .navbar-links a:hover {
   color: #f0f0f0; /* Lighten on hover */
+  cursor: pointer;
 }
 
 /* Responsive Styles */

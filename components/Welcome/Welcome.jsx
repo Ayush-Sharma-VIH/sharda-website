@@ -1,5 +1,5 @@
 import React from 'react';
-import './Welcome.css'; // Import the CSS file
+import './Welcome.css'; 
 
 const Welcome = () => {
   return (
@@ -7,7 +7,7 @@ const Welcome = () => {
       <div className="welcome-content">
         <h1>Welcome to the Sharda E-Library</h1>
         <hr className="welcome-line" />
-        <p>Unlock a World of Digital Learning Resources</p>
+        <p>An initiative by students of Sharda to provide educational resourse to underpriviledge students</p>
       </div>
       <div className="welcome-image-section">
         <img
